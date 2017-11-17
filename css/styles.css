@@ -12,15 +12,14 @@ body {
 .nav ul {
   background-color:black;
   list-style:none;
+  text-align: center;
 }
 .nav li {
-  display:inline;
-
+  display:inline-block;
 }
 .nav li a {
   color:white;
   text-decoration: none;
-  align-content: center;
 }
 #pan-img {
   width: 40%;
@@ -35,4 +34,5 @@ body {
 }
 .rightside {
   float:right;
+
 }
