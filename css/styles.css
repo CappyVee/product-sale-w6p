@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: grey;
+}
+.nav ul {
+  background-color:darkgrey;
+  list-style:none;
+}
+.nav li {
+  display:inline;
+}
+#pan-img {
+  width: 40%;
+  position:relative;
+  top: 20%;
+  left: 55%;
+}
+.pan-desc {
+  z-index: 1;
+  position: absolute;
+  left: 50%;
+}
