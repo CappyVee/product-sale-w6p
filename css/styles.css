@@ -36,3 +36,14 @@ body {
   float:right;
 
 }
+.pan-success {
+  object-fit: cover;
+  height: 100px;
+  width: 100px;
+}
+.footer ul {
+  list-style: none;
+}
+.footer ul li {
+  float: left;
+}
