@@ -19,18 +19,22 @@ body {
 }
 .nav li a {
   color:white;
+  margin-left: 10px;
   text-decoration: none;
 }
 #pan-img {
   width: 40%;
+  display: inline-block;
   position:relative;
-  top: 15%;
-  left: 30%;
+  top: -10%;
+  left: 40%;
 }
 .pan-desc {
   z-index: 1;
   position: absolute;
-  left: 25%;
+  left: 30%;
+  top: 18%;
+  font-style: italic;
 }
 .rightside {
   float:right;
@@ -46,4 +50,8 @@ body {
 }
 .footer ul li {
   float: left;
+  padding-left: 10%;
+}
+.footer ul li img {
+  border: 2px solid black;
 }
