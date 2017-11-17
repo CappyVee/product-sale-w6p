@@ -1,25 +1,38 @@
 * {
   box-sizing: border-box;
 }
-
+.wrapper {
+  margin: 2% 2%;
+.header
+}
 body {
   background: grey;
+  color: white;
 }
 .nav ul {
-  background-color:darkgrey;
+  background-color:black;
   list-style:none;
 }
 .nav li {
   display:inline;
+
+}
+.nav li a {
+  color:white;
+  text-decoration: none;
+  align-content: center;
 }
 #pan-img {
   width: 40%;
   position:relative;
-  top: 20%;
-  left: 55%;
+  top: 15%;
+  left: 30%;
 }
 .pan-desc {
   z-index: 1;
   position: absolute;
-  left: 50%;
+  left: 25%;
+}
+.rightside {
+  float:right;
 }
