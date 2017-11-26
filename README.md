@@ -8,6 +8,20 @@
 
 _End of Week Six project. I'm supposed to use floats, pseudo-elements and a variety of selectors in CSS to style a basic product sale website. In this case, a haunted frying pan.
 
+| TERM | DESCRIPTION | IMPLEMENTATION |
+|------|-------------|----------------|
+|BOX-SIZING|---------|----------------|
+|FLOAT|--------------|----------------|
+|DISPLAY:BLOCK|------|----------------|
+|DISPLAY:INLINE|-----|----------------|
+|CENTERED CONTENT|---|----------------|
+|PSEUDO-ELEMENT|-----|----------------|
+|PSEUDO-CLASS|-------|----------------|
+|CLEAR-FIX|----------|----------------|
+|POSITIONAL SELECTOR|---|-------------|
+|SELECTOR COMBINATOR|---|-------------|
+
+
 
 
 * _clone repository_
