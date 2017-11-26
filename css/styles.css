@@ -77,31 +77,31 @@ body {
 }
 
 .img1::before {
-  content: "Something good, no doubt";
+  content: "Sword into pan. Peace is progress.";
   position: absolute;
   top: 83%;
-  left: 12%;
+  left: 12.1%;
 }
 .img2::before {
-  content: "Something good, no doubt";
+  content: "Pan with the spirit of a panda.";
   position: absolute;
   top: 83%;
-  left: 28%;
+  left: 28.5%;
 }
 .img3::before {
-  content: "Something good, no doubt";
+  content: "Not sure, but something good.";
   position: absolute;
   top: 83%;
   left: 45.5%;
 }
 .img4::before {
-  content: "Something good, no doubt";
+  content: "Heroism incarnate.";
   position: absolute;
   top: 83%;
-  left: 62%;
+  left: 64%;
 }
 .img5::before {
-  content: "Something good, no doubt";
+  content: "God works in mysterious ways.";
   position: absolute;
   top: 83%;
   left: 79%;
