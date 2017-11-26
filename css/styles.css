@@ -78,36 +78,46 @@ body {
 }
 
 .footer p {
-  padding-top: 10%;
+  padding-top: 6%;
 }
 
 .img1::before {
   content: "Sword into pan. Peace is progress.";
   position: absolute;
-  top: 89.5%;
+  top: 85.5%;
   left: 10.8%;
 }
 .img2::before {
   content: "Pan with the spirit of a panda.";
   position: absolute;
-  top: 89.5%;
+  top: 85.5%;
   left: 28%;
 }
 .img3::before {
   content: "Not sure, but something good.";
   position: absolute;
-  top: 89.5%;
+  top: 85.5%;
   left: 45.1%;
 }
 .img4::before {
   content: "Heroism incarnate.";
   position: absolute;
-  top: 89.5%;
+  top: 85.5%;
   left: 63.8%;
 }
 .img5::before {
   content: "God works in mysterious ways.";
   position: absolute;
-  top: 89.5%;
+  top: 85.5%;
   left: 78.65%;
+}
+.cooking {
+  font-style: italic;
+  font-weight: bold;
+  color:red;
+}
+
+.gluten {
+  font-style: italic;
+  color:lightgreen;
 }
