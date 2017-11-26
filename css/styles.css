@@ -69,9 +69,29 @@ body {
 }
 .footer ul li {
   float: left;
-  padding-top: 3%;
-  padding-left: 10%;
+  padding-top: 5%;
+  padding-left: 12%;
 }
 .footer ul li img {
   border: 2px solid black;
+}
+
+#pi1::before {
+  content: "Something good, no doubt";
+  position: absolute;
+  top: 2%;
+  background: lightgrey;
+  z-index: 5;
+}
+#pi2::after {
+
+}
+#pi3::after {
+
+}
+#pi4::after {
+
+}
+#pi5::after {
+
 }
