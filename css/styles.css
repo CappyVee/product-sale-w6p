@@ -1,4 +1,4 @@
-html * {
+* {
   box-sizing: border-box;
 }
 .wrapmeamadeus {
@@ -10,6 +10,8 @@ html * {
   font-family: 'Josefin Sans', sans-serif;
   font-style: italic;
   color:black;
+  text-shadow: 2px 2px lightgrey;
+  letter-spacing: 0.6em;
 }
 
 body {
@@ -26,11 +28,13 @@ body {
 }
 
 .nav ul {
+  height: 5vh;
   background-color:black;
   list-style:none;
   text-align: center;
 }
 .nav li {
+  padding-top: 1.8vh;
   display:inline-block;
 }
 .nav li a {
@@ -38,6 +42,9 @@ body {
   margin-left: 10px;
   padding: 30px;
   text-decoration: none;
+}
+.nav li a:hover {
+  color:red;
 }
 #pan-img {
   width: 40%;
@@ -84,31 +91,31 @@ body {
 .img1::before {
   content: "Sword into pan. Peace is progress.";
   position: absolute;
-  top: 85.5%;
+  top: 88%;
   left: 10.8%;
 }
 .img2::before {
   content: "Pan with the spirit of a panda.";
   position: absolute;
-  top: 85.5%;
+  top: 88%;
   left: 28%;
 }
 .img3::before {
   content: "Not sure, but something good.";
   position: absolute;
-  top: 85.5%;
+  top: 88%;
   left: 45.1%;
 }
 .img4::before {
   content: "Heroism incarnate.";
   position: absolute;
-  top: 85.5%;
+  top: 88%;
   left: 63.8%;
 }
 .img5::before {
   content: "God works in mysterious ways.";
   position: absolute;
-  top: 85.5%;
+  top: 88%;
   left: 78.65%;
 }
 .cooking {
