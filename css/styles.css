@@ -76,22 +76,33 @@ body {
   border: 2px solid black;
 }
 
-#pi1::before {
+.img1::before {
   content: "Something good, no doubt";
   position: absolute;
-  top: 2%;
-  background: lightgrey;
-  z-index: 5;
+  top: 83%;
+  left: 12%;
 }
-#pi2::after {
-
+.img2::before {
+  content: "Something good, no doubt";
+  position: absolute;
+  top: 83%;
+  left: 28%;
 }
-#pi3::after {
-
+.img3::before {
+  content: "Something good, no doubt";
+  position: absolute;
+  top: 83%;
+  left: 45.5%;
 }
-#pi4::after {
-
+.img4::before {
+  content: "Something good, no doubt";
+  position: absolute;
+  top: 83%;
+  left: 62%;
 }
-#pi5::after {
-
+.img5::before {
+  content: "Something good, no doubt";
+  position: absolute;
+  top: 83%;
+  left: 79%;
 }
