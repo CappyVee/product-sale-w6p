@@ -41,8 +41,8 @@ body {
 }
 #pan-img {
   width: 40%;
-  position:relative;
-  top: 18%;
+  position:absolute;
+  top: 28%;
   left: 35%;
 }
 .pan-desc {
@@ -65,44 +65,49 @@ body {
   width: 100px;
 }
 .footer ul {
+  margin-top: 10%;
   list-style: none;
 }
 .footer ul li {
   float: left;
-  padding-top: 5%;
+  padding-top: -2%;
   padding-left: 12%;
 }
 .footer ul li img {
   border: 2px solid black;
 }
 
+.footer p {
+  padding-top: 10%;
+}
+
 .img1::before {
   content: "Sword into pan. Peace is progress.";
   position: absolute;
-  top: 83%;
-  left: 12.1%;
+  top: 89.5%;
+  left: 10.8%;
 }
 .img2::before {
   content: "Pan with the spirit of a panda.";
   position: absolute;
-  top: 83%;
-  left: 28.5%;
+  top: 89.5%;
+  left: 28%;
 }
 .img3::before {
   content: "Not sure, but something good.";
   position: absolute;
-  top: 83%;
-  left: 45.5%;
+  top: 89.5%;
+  left: 45.1%;
 }
 .img4::before {
   content: "Heroism incarnate.";
   position: absolute;
-  top: 83%;
-  left: 64%;
+  top: 89.5%;
+  left: 63.8%;
 }
 .img5::before {
   content: "God works in mysterious ways.";
   position: absolute;
-  top: 83%;
-  left: 79%;
+  top: 89.5%;
+  left: 78.65%;
 }
